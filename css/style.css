@@ -1,19 +1,23 @@
-title {
-  color: green;
-}
-
 body {
-  background-color: lavender;
+  background-color: black;
 }
 
 h1 {
-  text-alig
-: center;}n
-
-h2 {
+  color: gray;
   text-align: center;
 }
 
-li {
+h2 {
+  text-align: center;
+  color: gray;
+}
+h3 {
+  text-align: center;
+  color: gray;
+}
+
+p {
   font-style: italic;
+  text-align: center;
+  color: gray;
 }
