@@ -1,6 +1,6 @@
 # _Resort Website_
 
-#### By _**Kai Clausen and Molly Donegan **_
+#### **By Kai Clausen and Molly Donegan **_
 
 #### _Website to display knowledge of branching and merging_
 
